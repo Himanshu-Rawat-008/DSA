@@ -12,3 +12,5 @@ Data Structures And Algorithms Practice
 > Day 5 - [Majority Element](https://leetcode.com/problems/majority-element/submissions/1149059881/?envType=study-plan-v2&envId=top-interview-150)
 
 > Day 5 - [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+
+> Day 6 - [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)
