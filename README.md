@@ -14,3 +14,5 @@ Data Structures And Algorithms Practice
 > Day 5 - [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
 
 > Day 6 - [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)
+
+> Day 7 - [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
