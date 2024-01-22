@@ -18,3 +18,7 @@ Data Structures And Algorithms Practice
 > Day 7 - [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
 
 > Day 8 - [Best time to buy and sell stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)
+
+> Day 8 - [Jump Game](https://leetcode.com/problems/jump-game/solutions/3758301/java-easy-solution-with-explanation/?envType=study-plan-v2&envId=top-interview-150)
+
+<!-- Day x - [text](Url) -->
