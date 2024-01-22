@@ -16,3 +16,5 @@ Data Structures And Algorithms Practice
 > Day 6 - [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)
 
 > Day 7 - [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
+
+> Day 8 - [Best time to buy and sell stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)
