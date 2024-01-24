@@ -23,4 +23,5 @@ Data Structures And Algorithms Practice
 
 > Day 8 - [Jump Game II ](https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150)
 
+> Day 9 - [H-Index ](https://leetcode.com/problems/h-index/?envType=study-plan-v2&envId=top-interview-150)
 <!-- Day x - [text](Url) -->
