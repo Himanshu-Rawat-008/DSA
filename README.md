@@ -52,4 +52,7 @@ Run Code -
 
 > Day 10 - [Find Missing Number](https://www.geeksforgeeks.org/find-the-missing-number/)
 
+> Day 10 - [Minimum steps to make the product of the array equal to 1](https://www.geeksforgeeks.org/minimum-steps-to-make-the-product-of-the-array-equal-to-1/)
+
+
 <!-- Day x - [text](Url) -->
