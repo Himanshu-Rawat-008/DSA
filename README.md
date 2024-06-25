@@ -54,5 +54,7 @@ Run Code -
 
 > Day 10 - [Minimum steps to make the product of the array equal to 1](https://www.geeksforgeeks.org/minimum-steps-to-make-the-product-of-the-array-equal-to-1/)
 
+> Day 10 - [Count trailing zeroes in factorial of a number](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
+
 
 <!-- Day x - [text](Url) -->
