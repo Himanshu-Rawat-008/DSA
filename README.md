@@ -1,6 +1,29 @@
 # DSA
 Data Structures And Algorithms Practice
 
+Run Code -
+
+    1- Install Java Extension Pack and Code Runner Extension from VS Code Extensions.
+
+    2- Edit your java home location in VS Code settings, "java.home": "C:\\Program Files\\Java\\jdk-9.0.4".
+
+    3- Check if javac is recognized in VS Code internal terminal. If this check fails, try opening VS Code as administrator.
+
+    4- Create a simple Java program in Main.java file as:
+
+```java
+        public class Main {
+            public static void main(String[] args) {
+                System.out.println("Hello world");     
+            }
+}
+```
+    Note: Do not add package in your main class.
+
+    5- Right click anywhere on the java file and select run code.
+
+    6- Check the output in the console.
+
 > Day 1 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150)
 
 > Day 2 - [Remove Element](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)
@@ -26,5 +49,11 @@ Data Structures And Algorithms Practice
 > Day 9 - [H-Index ](https://leetcode.com/problems/h-index/?envType=study-plan-v2&envId=top-interview-150)
 
 > Day 9 - [Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150)
+
+> Day 10 - [Find Missing Number](https://www.geeksforgeeks.org/find-the-missing-number/)
+
+> Day 10 - [Minimum steps to make the product of the array equal to 1](https://www.geeksforgeeks.org/minimum-steps-to-make-the-product-of-the-array-equal-to-1/)
+
+> Day 10 - [Count trailing zeroes in factorial of a number](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
 
 <!-- Day x - [text](Url) -->
