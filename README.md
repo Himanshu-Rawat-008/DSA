@@ -58,4 +58,12 @@ Run Code -
 
 > Day 11 - [Two Sum](https://leetcode.com/problems/two-sum/)
 
+> Day 12 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+> Day 12 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+> Day 13 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+
+
+
 <!-- Day x - [text](Url) -->
