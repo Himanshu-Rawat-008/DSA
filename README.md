@@ -58,4 +58,6 @@ Run Code -
 
 > Day 11 - [Two Sum](https://leetcode.com/problems/two-sum/)
 
+> Day 12 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
 <!-- Day x - [text](Url) -->
