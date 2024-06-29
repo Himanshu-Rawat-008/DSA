@@ -56,4 +56,6 @@ Run Code -
 
 > Day 10 - [Count trailing zeroes in factorial of a number](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/)
 
+> Day 11 - [Two Sum](https://leetcode.com/problems/two-sum/)
+
 <!-- Day x - [text](Url) -->
