@@ -66,5 +66,6 @@ Run Code -
 
 > Day 13 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
 
+> Day 14 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 
 <!-- Day x - [text](Url) -->
