@@ -70,6 +70,9 @@ Run Code -
 
 > Day 15 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-> Day 15 - [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock);
+> Day 15 - [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 
+> Day 16 - [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
+> Day 16 - [3Sum](https://leetcode.com/problems/3sum)
 <!-- Day x - [text](Url) -->
