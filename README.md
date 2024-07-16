@@ -77,4 +77,8 @@ Run Code -
 > Day 16 - [3Sum](https://leetcode.com/problems/3sum)
 
 > Day 17 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+> Day 18 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+> Day 18 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 <!-- Day x - [text](Url) -->
