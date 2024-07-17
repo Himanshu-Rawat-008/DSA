@@ -81,4 +81,6 @@ Run Code -
 > Day 18 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 > Day 18 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+
+> Day 19 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 <!-- Day x - [text](Url) -->
