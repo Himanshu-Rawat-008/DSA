@@ -85,4 +85,6 @@ Run Code -
 > Day 19 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
 > Day 20 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
+> Day 21 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 <!-- Day x - [text](Url) -->
