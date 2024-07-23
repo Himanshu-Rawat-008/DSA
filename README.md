@@ -93,4 +93,7 @@ Run Code -
 > Day 22 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
 
 > Day 22 - [Binary Search](https://leetcode.com/problems/binary-search/)
+
+> Day 22 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+
 <!-- Day x - [text](Url) -->
