@@ -91,4 +91,6 @@ Run Code -
 > Day 21 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 
 > Day 22 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
+
+> Day 22 - [Binary Search](https://leetcode.com/problems/binary-search/)
 <!-- Day x - [text](Url) -->
