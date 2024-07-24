@@ -89,4 +89,12 @@ Run Code -
 > Day 21 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
 > Day 21 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
+
+> Day 22 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
+
+> Day 22 - [Binary Search](https://leetcode.com/problems/binary-search/)
+
+> Day 22 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+
+> Day 22 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 <!-- Day x - [text](Url) -->
