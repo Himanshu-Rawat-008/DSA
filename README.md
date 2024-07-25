@@ -97,4 +97,6 @@ Run Code -
 > Day 22 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 > Day 22 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+> Day 23 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 <!-- Day x - [text](Url) -->
