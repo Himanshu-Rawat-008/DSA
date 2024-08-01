@@ -101,4 +101,6 @@ Run Code -
 > Day 23 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 > Day 24 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+
+> Day 24 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 <!-- Day x - [text](Url) -->
