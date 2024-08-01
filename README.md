@@ -103,4 +103,6 @@ Run Code -
 > Day 24 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
 
 > Day 24 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+> Day 24 - [Merge two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 <!-- Day x - [text](Url) -->
