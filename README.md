@@ -105,4 +105,14 @@ Run Code -
 > Day 24 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 > Day 24 - [Merge two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+
+> Day 25 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+> Day 25 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+
+> Day 25 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+> Day 25 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+> Day 25 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 <!-- Day x - [text](Url) -->
