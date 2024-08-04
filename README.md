@@ -113,4 +113,6 @@ Run Code -
 > Day 25 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 > Day 25 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+> Day 25 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 <!-- Day x - [text](Url) -->
