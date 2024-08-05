@@ -115,4 +115,6 @@ Run Code -
 > Day 25 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 > Day 25 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
+> Day 26 - [LRU Cache](https://leetcode.com/problems/lru-cache/)
 <!-- Day x - [text](Url) -->
