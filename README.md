@@ -143,4 +143,6 @@ Run Code -
 > Day 28 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 
 > Day 28 - [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+
+> Day 28 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 <!-- Day x - [text](Url) -->
