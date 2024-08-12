@@ -141,4 +141,6 @@ Run Code -
 > Day 27 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
 > Day 28 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+
+> Day 28 - [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 <!-- Day x - [text](Url) -->
