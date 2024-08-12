@@ -139,4 +139,6 @@ Run Code -
 > Day 27 - [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 
 > Day 27 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+
+> Day 28 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 <!-- Day x - [text](Url) -->
