@@ -145,4 +145,6 @@ Run Code -
 > Day 28 - [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
 > Day 28 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+> Day 29 - [Subsets](https://leetcode.com/problems/subsets/description/)
 <!-- Day x - [text](Url) -->
