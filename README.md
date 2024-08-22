@@ -155,4 +155,6 @@ Run Code -
 > Day 31 - [Combination Sum II ](https://leetcode.com/problems/combination-sum-ii)
 
 > Day 31 - [Subsets II ](https://leetcode.com/problems/subsets-ii)
+
+> Day 31 - [Word Search](https://leetcode.com/problems/word-search)
 <!-- Day x - [text](Url) -->
