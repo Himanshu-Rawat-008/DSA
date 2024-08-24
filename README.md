@@ -149,4 +149,12 @@ Run Code -
 > Day 29 - [Subsets](https://leetcode.com/problems/subsets/description/)
 
 > Day 30 - [Combination Sum](https://leetcode.com/problems/combination-sum/)
+
+> Day 31 - [Permutations](https://leetcode.com/problems/permutations/)
+
+> Day 31 - [Combination Sum II ](https://leetcode.com/problems/combination-sum-ii)
+
+> Day 31 - [Subsets II ](https://leetcode.com/problems/subsets-ii)
+
+> Day 31 - [Word Search](https://leetcode.com/problems/word-search)
 <!-- Day x - [text](Url) -->
