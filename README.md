@@ -161,4 +161,6 @@ Run Code -
 > Day 32 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 
 > Day 32 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+> Day 32 - [N Queens](https://leetcode.com/problems/n-queens)
 <!-- Day x - [text](Url) -->
