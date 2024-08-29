@@ -165,4 +165,6 @@ Run Code -
 > Day 32 - [N Queens](https://leetcode.com/problems/n-queens)
 
 > Day 33 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+
+> Day 33 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
 <!-- Day x - [text](Url) -->
