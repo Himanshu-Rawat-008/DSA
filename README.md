@@ -171,4 +171,6 @@ Run Code -
 > Day 33 - [House Robber](https://leetcode.com/problems/house-robber/)
 
 > Day 33 - [House Robber II](https://leetcode.com/problems/house-robber-ii)
+
+> Day 33 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 <!-- Day x - [text](Url) -->
