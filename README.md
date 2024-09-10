@@ -185,4 +185,8 @@ Run Code -
 > Day 34 - [Word Break](https://leetcode.com/problems/word-break)
 
 > Day 34 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+> Day 34 - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+
 <!-- Day x - [text](Url) -->
