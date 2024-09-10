@@ -189,4 +189,6 @@ Run Code -
 > Day 34 - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
 > Day 34 - [Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+> Day 34 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 <!-- Day x - [text](Url) -->
