@@ -183,4 +183,6 @@ Run Code -
 > Day 33 - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 
 > Day 34 - [Word Break](https://leetcode.com/problems/word-break)
+
+> Day 34 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 <!-- Day x - [text](Url) -->
