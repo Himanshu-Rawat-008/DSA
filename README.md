@@ -181,4 +181,20 @@ Run Code -
 > Day 33 - [Coin Change](https://leetcode.com/problems/coin-change/)
 
 > Day 33 - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
+
+> Day 34 - [Word Break](https://leetcode.com/problems/word-break)
+
+> Day 34 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+> Day 34 - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+> Day 34 - [Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+> Day 34 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+> Day 34 - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+
+> Day 34 - [Coin Change II](https://leetcode.com/problems/coin-change-ii)
+
+> Day 34 - [Target Sum](https://leetcode.com/problems/target-sum)
 <!-- Day x - [text](Url) -->
