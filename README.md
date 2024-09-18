@@ -205,4 +205,6 @@ Run Code -
 > Day 35 - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 
 > Day 35 - [Edit Distance](https://leetcode.com/problems/edit-distance/)
+
+> Day 35 - [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 <!-- Day x - [text](Url) -->
