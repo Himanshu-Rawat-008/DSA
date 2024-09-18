@@ -203,4 +203,6 @@ Run Code -
 > Day 35 - [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 
 > Day 35 - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
+> Day 35 - [Edit Distance](https://leetcode.com/problems/edit-distance/)
 <!-- Day x - [text](Url) -->
