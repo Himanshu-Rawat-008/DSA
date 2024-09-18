@@ -199,4 +199,6 @@ Run Code -
 > Day 34 - [Target Sum](https://leetcode.com/problems/target-sum)
 
 > Day 35 - [Interleaving String](https://leetcode.com/problems/interleaving-string/)
+
+> Day 35 - [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 <!-- Day x - [text](Url) -->
