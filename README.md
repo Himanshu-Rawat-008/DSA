@@ -201,4 +201,6 @@ Run Code -
 > Day 35 - [Interleaving String](https://leetcode.com/problems/interleaving-string/)
 
 > Day 35 - [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+
+> Day 35 - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 <!-- Day x - [text](Url) -->
