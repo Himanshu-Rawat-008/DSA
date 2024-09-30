@@ -213,4 +213,6 @@ Run Code -
 > Day 36 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
 > Day 36 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+> Day 36 - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 <!-- Day x - [text](Url) -->
