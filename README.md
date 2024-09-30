@@ -209,4 +209,6 @@ Run Code -
 > Day 35 - [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 
 > Day 36 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+
+> Day 36 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 <!-- Day x - [text](Url) -->
