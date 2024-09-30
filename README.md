@@ -207,4 +207,6 @@ Run Code -
 > Day 35 - [Edit Distance](https://leetcode.com/problems/edit-distance/)
 
 > Day 35 - [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+
+> Day 36 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 <!-- Day x - [text](Url) -->
