@@ -207,4 +207,12 @@ Run Code -
 > Day 35 - [Edit Distance](https://leetcode.com/problems/edit-distance/)
 
 > Day 35 - [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+
+> Day 36 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+
+> Day 36 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+
+> Day 36 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+> Day 36 - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 <!-- Day x - [text](Url) -->
