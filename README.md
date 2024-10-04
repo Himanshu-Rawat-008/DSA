@@ -219,4 +219,6 @@ Run Code -
 > Day 37 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
 > Day 37 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
+> Day 37 - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 <!-- Day x - [text](Url) -->
