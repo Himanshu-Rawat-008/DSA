@@ -225,4 +225,6 @@ Run Code -
 > Day 37 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 
 > Day 37 - [Design Twitter](https://leetcode.com/problems/design-twitter/)
+
+> Day 37 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
 <!-- Day x - [text](Url) -->
