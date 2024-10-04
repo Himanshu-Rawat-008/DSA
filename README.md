@@ -214,5 +214,6 @@ Run Code -
 
 > Day 36 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
-> Day 36 - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+> Day 37 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+
 <!-- Day x - [text](Url) -->
