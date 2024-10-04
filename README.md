@@ -216,4 +216,5 @@ Run Code -
 
 > Day 37 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
+> Day 37 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 <!-- Day x - [text](Url) -->
