@@ -214,5 +214,17 @@ Run Code -
 
 > Day 36 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
-> Day 36 - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+> Day 37 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+
+> Day 37 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+
+> Day 37 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
+> Day 37 - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+> Day 37 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+
+> Day 37 - [Design Twitter](https://leetcode.com/problems/design-twitter/)
+
+> Day 37 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
 <!-- Day x - [text](Url) -->
