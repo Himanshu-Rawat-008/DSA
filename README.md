@@ -229,4 +229,6 @@ Run Code -
 > Day 37 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
 
 > Day 38 - [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+> Day 38 - [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 <!-- Day x - [text](Url) -->
