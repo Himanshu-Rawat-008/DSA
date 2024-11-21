@@ -237,4 +237,6 @@ Run Code -
 > Day 38 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 
 > Day 39 - [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+
+> Day 39 - [Course Schedule](https://leetcode.com/problems/course-schedule/)
 <!-- Day x - [text](Url) -->
