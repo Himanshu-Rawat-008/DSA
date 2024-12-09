@@ -241,4 +241,6 @@ Run Code -
 > Day 39 - [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
 > Day 39 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+
+> Day 39 - [Redundant Connection](https://leetcode.com/problems/redundant-connection/description)
 <!-- Day x - [text](Url) -->
