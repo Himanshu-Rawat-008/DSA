@@ -235,4 +235,12 @@ Run Code -
 > Day 38 - [Clone Graph](https://leetcode.com/problems/clone-graph/)
 
 > Day 38 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+
+> Day 39 - [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+
+> Day 39 - [Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+> Day 39 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+
+> Day 39 - [Redundant Connection](https://leetcode.com/problems/redundant-connection/description)
 <!-- Day x - [text](Url) -->
