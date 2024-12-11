@@ -245,4 +245,6 @@ Run Code -
 > Day 39 - [Redundant Connection](https://leetcode.com/problems/redundant-connection/description)
 
 > Day 40 - [Word Ladder](https://leetcode.com/problems/word-ladder/)
+
+> Day 41 - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)
 <!-- Day x - [text](Url) -->
