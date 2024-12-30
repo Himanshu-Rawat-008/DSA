@@ -247,4 +247,12 @@ Run Code -
 > Day 40 - [Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 > Day 41 - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)
+
+> Day 42 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points)
+
+> Day 42 - [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+
+> Day 42 - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+
+> Day 42 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
 <!-- Day x - [text](Url) -->
