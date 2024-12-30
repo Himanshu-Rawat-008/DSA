@@ -251,4 +251,6 @@ Run Code -
 > Day 42 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points)
 
 > Day 42 - [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+
+> Day 42 - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
 <!-- Day x - [text](Url) -->
