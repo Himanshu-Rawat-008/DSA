@@ -253,4 +253,6 @@ Run Code -
 > Day 42 - [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
 > Day 42 - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+
+> Day 42 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
 <!-- Day x - [text](Url) -->
