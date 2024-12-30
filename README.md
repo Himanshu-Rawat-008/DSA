@@ -247,4 +247,6 @@ Run Code -
 > Day 40 - [Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 > Day 41 - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)
+
+> Day 42 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points)
 <!-- Day x - [text](Url) -->
